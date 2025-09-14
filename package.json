@@ -1,0 +1,8 @@
+{
+  "name": "dash-em",
+  "version": "1.0.0",
+  "description": "Emergency medicine interactive curriculum",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  }
+}
